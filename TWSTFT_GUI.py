@@ -1,32 +1,17 @@
 '''
 Copyright (C) 2019 Vishal Yadav
 '''
-import sys
-from PyQt5 import QtCore
-from PyQt5 import QtGui
+
 import easygui
 import sys
 import socket
 import datetime
-import os
-import pyqtgraph.opengl as gl
-import pyqtgraph as pg
 import math
 import time
-from PyQt5.QtGui import *
-from PyQt5.QtWidgets import *
-from PyQt5.QtCore import *
-from PyQt5 import QtCore, QtGui, QtWidgets
-from pyqtgraph.Qt import QtCore, QtGui
 import random
-import easygui
-import sys
-import socket
 import os
 import pyqtgraph.opengl as gl
 import pyqtgraph as pg
-import math
-import time
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
